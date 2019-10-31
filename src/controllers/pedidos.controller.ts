@@ -127,7 +127,7 @@ export class PedidosController {
 						editing: '05:35'
 					},
 					{
-						date: '29/10/2019',
+						date: '30/10/2019',
 						product: '210-MS-H67-A5',
 						hour: '18:35',
 						frecuency: '@30 min',
@@ -141,7 +141,7 @@ export class PedidosController {
 			},
 			{
 				id_work: 2,
-				name_work: 'RESIDENCIAL EL PARQUE II REPALSA',
+				name_work: 'OBRA2',
 				people_contact_name: 'PEDRO PÉREZ',
 				people_contact_phone: '962525191',
 				orders: [
@@ -160,7 +160,7 @@ export class PedidosController {
 			},
 			{
 				id_work: 3,
-				name_work: 'RESIDENCIAL EL PARQUE II REPALSA',
+				name_work: 'OBRA 3',
 				people_contact_name: 'PEDRO PÉREZ',
 				people_contact_phone: '962525191',
 				orders: [
